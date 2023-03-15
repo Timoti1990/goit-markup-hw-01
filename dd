@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<header>design practice focused on digital experiences. we bring forth a deep passion for problem-solving.</header>
+<nav>info@devstudio.com   +11 (000) 111-11-11</nav>
+   <h1>Research and confirm brands that present the strongest digital growth opportunities and minimize risk.
+    Design practice focused on digital experiences. We bring forth a deep passion for problem-solving.</h1> 
+    <button>"Order Service"</button>
+    <h2>dalmatian</h2>
+    <img src="./images/300x300-clicker.jpg" alt="dog">
+</body>
+</html>
